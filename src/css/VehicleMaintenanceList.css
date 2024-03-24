@@ -1,0 +1,12 @@
+.vehicle-maintenance-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .vehicle-maintenance-table th,
+  .vehicle-maintenance-table td {
+    padding: 10px; /* Adjust as needed */
+    border: 1px solid #ddd; /* Add borders for better separation */
+    text-align: center; /* Center-align content */
+  }
+  
